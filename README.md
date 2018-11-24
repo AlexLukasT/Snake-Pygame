@@ -1,3 +1,5 @@
+# Snake-Pygame
+
 Simple Snake Game using Pygame
 
 Requirements: Pygame 1.9.4, Numpy
