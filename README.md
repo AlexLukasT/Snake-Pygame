@@ -7,3 +7,5 @@ Requirements: Pygame 1.9.4, Numpy
 To start run "python3 game.py"
 
 Use the arrow-keys to control the snake and press space to pause the game
+
+![](https://i.imgur.com/gQuM0b9.png)
